@@ -5,8 +5,8 @@
  *
  * return: Always 0 (Succesful)
  */
-int main(void)
+int main (void)
 {
-	printf("\"Programming islike building a multilingual puzzle");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
