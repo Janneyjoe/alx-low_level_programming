@@ -11,6 +11,7 @@ void print_alphabet_x10(void)
 	int j = 0;
 
 	char c = 'a';
+
 	while (j <= '9')
 	j++;
 
