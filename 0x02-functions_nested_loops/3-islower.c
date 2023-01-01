@@ -4,7 +4,7 @@
 /**
  * main - entry point
  *
- * return: Always 0 (success)
+ * return: 1 if letter is lowercase and 0 if not
  */
 int _islower(int c)
 
