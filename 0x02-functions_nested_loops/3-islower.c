@@ -4,7 +4,8 @@
 /**
  * main - entry point
  *
- * return: 1 if letter is lowercase and 0 if not
+ * @c: the character
+ * return: 1 if letter is lowercase, 0 if not
  */
 int _islower(int c)
 
@@ -14,4 +15,4 @@ int _islower(int c)
 		return (1);
 	else
 		return (0);
-}	
+}
