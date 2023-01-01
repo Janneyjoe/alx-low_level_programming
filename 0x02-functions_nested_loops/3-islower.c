@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * return: 0
+ * return: Always 0 (success)
  */
 int _islower(int c)
 {
