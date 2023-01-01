@@ -9,7 +9,7 @@ int _islower(int c)
 {
 	
 	if (c >= 'a' && c <= 'Z')
-		retuen (1);
+		return (1);
 	else
 		return (0);
 }	
